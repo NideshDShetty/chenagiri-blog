@@ -401,3 +401,7 @@ button[type="submit"]:hover {
 #mail:hover {
   background-color: #cf3311;
 }
+#squareid
+{
+  background-color: red;
+}
